@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+![RAC](https://github.com/chikaosuagwu/Rent-A-Car/assets/99517416/018ae25d-2743-48db-8ac4-a4cfadb5dff9)
+
+![About_us](https://github.com/chikaosuagwu/Rent-A-Car/assets/99517416/a985f4fb-d792-4b27-958d-34bc3a853538)
+
+![car_details](https://github.com/chikaosuagwu/Rent-A-Car/assets/99517416/ff32d4c5-2026-4acc-914b-956f5c29aff7)
+
+![Hot_offers](https://github.com/chikaosuagwu/Rent-A-Car/assets/99517416/7459281d-bb0f-434b-a31e-e2928a11fabd)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
