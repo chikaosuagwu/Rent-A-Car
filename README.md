@@ -1,12 +1,16 @@
 # Getting Started with Create React App
 
-![RAC](https://github.com/chikaosuagwu/Rent-A-Car/assets/99517416/018ae25d-2743-48db-8ac4-a4cfadb5dff9)
+<p align="center">
+  <img src="https://github.com/chikaosuagwu/Rent-A-Car/assets/99517416/018ae25d-2743-48db-8ac4-a4cfadb5dff9" width="250" height="250" />
 
-![About_us](https://github.com/chikaosuagwu/Rent-A-Car/assets/99517416/a985f4fb-d792-4b27-958d-34bc3a853538)
+  <img src="https://github.com/chikaosuagwu/Rent-A-Car/assets/99517416/ff32d4c5-2026-4acc-914b-956f5c29aff7" width="250" height="250" />
 
-![car_details](https://github.com/chikaosuagwu/Rent-A-Car/assets/99517416/ff32d4c5-2026-4acc-914b-956f5c29aff7)
+  <img src="https://github.com/chikaosuagwu/Rent-A-Car/assets/99517416/7459281d-bb0f-434b-a31e-e2928a11fabd" width="250" height="250" />
 
-![Hot_offers](https://github.com/chikaosuagwu/Rent-A-Car/assets/99517416/7459281d-bb0f-434b-a31e-e2928a11fabd)
+  <img src="https://github.com/chikaosuagwu/Rent-A-Car/assets/99517416/a985f4fb-d792-4b27-958d-34bc3a853538" width="300" height="250" />
+
+  <img src="https://github.com/chikaosuagwu/Rent-A-Car/assets/99517416/3e890317-4da4-4b61-85f7-f9a6deaa86dd" width="250" height="250" />
+</p>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
